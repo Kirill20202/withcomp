@@ -30,7 +30,7 @@
 
 ### 🌟 Мой лучший проект (пока что 😉)
 
-> **[withcomp.ru](https://github.com/Kirill20202/withcomp)** — мой первый серьёзный сайт.  
+> **[withcomp.ru](https://withcomp.ru)** — мой первый серьёзный сайт.  
 > Тут я учился верстке, адаптивности и работе с Git.  
 > *Цель: сделать его лучше, добавить JS и функционал.*  
 > 👉 [Посмотреть репозиторий](https://github.com/Kirill20202/withcomp)
@@ -55,14 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirill20202&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill20202&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
 
 > 🧠 *"Я не знаю всего — и это мой суперпавер. Потому что я учусь быстрее, чем другие думают."*  
 > — 41R1K, 2025 😎
