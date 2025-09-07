@@ -68,22 +68,4 @@
 
 ---
 
-## 🧩 Как внести свой вклад?
-
-Если вы хотите добавить статью, исправить ошибку или предложить идею — добро пожаловать!
-
-1. Откройте issue на GitHub
-2. Создайте pull request с вашими изменениями
-3. Или напишите нам на почту: contact@withcomp.ru
-
----
-
-## 🔗 Ссылки
-
-- 🌐 Сайт: [https://withcomp.ru](https://withcomp.ru)
-- 💬 Контакты: contact@withcomp.ru
-- 📄 GitHub: [github.com/yourusername/withcomp.ru](https://github.com/yourusername/withcomp.ru)
-
----
-
 > *© 2025 withcomp.ru — Учись легко, работай эффективно.*
